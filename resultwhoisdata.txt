@@ -1,0 +1,145 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Server Name: WWW.GOOGLE.COM.AR
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+
+   Server Name: WWW.GOOGLE.COM.AU
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com.au
+
+
+   Server Name: WWW.GOOGLE.COM.BR
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+
+   Server Name: WWW.GOOGLE.COM.CO
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+
+   Server Name: WWW.GOOGLE.COM.DO
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+
+   Server Name: WWW.GOOGLE.COM.EXTERMINATOR4ALL.COM
+   IP Address: 74.125.224.72
+   Registrar: GODADDY.COM, LLC
+   Whois Server: whois.godaddy.com
+   Referral URL: http://www.godaddy.com
+
+
+   Server Name: WWW.GOOGLE.COM.HK
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+
+
+   Server Name: WWW.GOOGLE.COM.INFO-MADA.COM
+   IP Address: 216.239.32.21
+   IP Address: 216.239.38.21
+   IP Address: 216.239.36.21
+   IP Address: 216.239.34.21
+   Registrar: 1&1 INTERNET SE
+   Whois Server: whois.1and1.com
+   Referral URL: http://registrar.1and1.info
+
+
+   Server Name: WWW.GOOGLE.COM.JJSINCLAIRONLINE.NET
+   IP Address: 74.125.196.103
+   Registrar: GOOGLE INC.
+   Whois Server: whois.google.com
+   Referral URL: http://domains.google.com
+
+
+   Server Name: WWW.GOOGLE.COM.MX
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+
+   Server Name: WWW.GOOGLE.COM.PE
+   Registrar: DELUXE SMALL BUSINESS SALES, INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+
+
+   Server Name: WWW.GOOGLE.COM.PK
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+
+
+   Server Name: WWW.GOOGLE.COM.SA
+   Registrar: OMNIS NETWORK, LLC
+   Whois Server: whois.omnis.com
+   Referral URL: http://www.omnis.com
+
+
+   Server Name: WWW.GOOGLE.COM.TR
+   Registrar: TUCOWS DOMAINS INC.
+   Whois Server: whois.tucows.com
+   Referral URL: http://www.tucowsdomains.com
+
+
+   Server Name: WWW.GOOGLE.COM.TW
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+
+   Server Name: WWW.GOOGLE.COM.VN
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+
+>>> Last update of whois database: 2017-07-16T12:46:51Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
